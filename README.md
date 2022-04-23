@@ -89,7 +89,7 @@ This is a userscript which adds a number of user interface improvements and util
 		var TelNo = "Tel: 01234 123456";
 		var JobTitle = "Helpdesk Monkey";
 		var Company = "ACME Corporation";
-		var MyUserName = "albert.mctrousers@acme.corp";
+		var MyUserName = "albert.mctrousers";
 		var cc_email = "acme@service-now.com";
 
 1. For the Task List updates to work (such as auto-refresh and colour-coding task type), you need to do the following:
