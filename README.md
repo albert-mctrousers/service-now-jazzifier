@@ -23,7 +23,7 @@ This is a userscript which adds a number of user interface improvements and util
       1. `In Progress` -> 🔴
       1. `Specification` -> Spec
    1. Can be used to shorten customer names, if you support multiple customers.
-   1. Checks to see if your username appears on the Tasks List page, and if it does, wraps it in a styled `span` so that you can easily see if you last updated a record.
+   1. Checks to see if your username appears on the Tasks List page, and if it does, wraps it in a styled `span` so that you can easily see e.g. if you last updated a record.
    1. Colours table rows in yellow when you hover over them - useful to see which record your cursor is hovering over.
    1. Counts records on the page and adds the record count to the page title, including the current time, so you can see at a glance how many records are on the page and when the page last updated - see next point below for auto-refresh.
    1. Auto refreshes the page every 5 minutes.
@@ -114,7 +114,7 @@ Include Task type on Task List page
 
 ### Tasks List Page
 
-Tasks List page showing colour coded Task Types, Priority markers, State markers and my username styled in green in the `Updated By` column
+Tasks List page showing colour coded Task Types, Priority markers, State markers and my username styled in green in the Last Updated column
 
 ![Tasks List Page](https://jimpix.co.uk/images/service-now/2022-04-23-task-list.png)
 
@@ -148,7 +148,7 @@ I am not a "real" programmer, and so the javascript in this userscript probably 
 
 Over the years I've learnt a bit about how to use javascript to change the various web-based incident management tools I've used at work, the latest being Service Now.
 
-As of April 23rd 2022, I decided to tidy up the code and put it on Github in case other Service Now users like it and in case it revolutionises their lives, and leads to the ultimate thril of me receiving praise from random strangers!
+As of April 23rd 2022, I decided to tidy up the code and put it on Github in case other Service Now users like it and in case it revolutionises their lives, and leads to the ultimate thril of me receiving praise from random stranges, which is ultimately the scourge of the internet and is what is behind why I think social media is a grim cess pit and a nest of vipers, all at the same time.
 
 ## License
 
