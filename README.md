@@ -23,7 +23,7 @@ This is a userscript which adds a number of user interface improvements and util
       1. `In Progress` -> 🔴
       1. `Specification` -> Spec
    1. Can be used to shorten customer names, if you support multiple customers.
-   1. Checks to see if your username appears on the Tasks List page, and if it does, wraps it in a styled `span` so that you can easily see e.g. if you last updated a record.
+   1. Checks to see if your username appears on the Tasks List page, and if it does, wraps it in a styled `span` so that you can easily see if you last updated a record.
    1. Colours table rows in yellow when you hover over them - useful to see which record your cursor is hovering over.
    1. Counts records on the page and adds the record count to the page title, including the current time, so you can see at a glance how many records are on the page and when the page last updated - see next point below for auto-refresh.
    1. Auto refreshes the page every 5 minutes.
@@ -114,7 +114,7 @@ Include Task type on Task List page
 
 ### Tasks List Page
 
-Tasks List page showing colour coded Task Types, Priority markers, State markers and my username styled in green in the Last Updated column
+Tasks List page showing colour coded Task Types, Priority markers, State markers and my username styled in green in the `Updated By` column
 
 ![Tasks List Page](https://jimpix.co.uk/images/service-now/2022-04-23-task-list.png)
 
