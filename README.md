@@ -148,7 +148,7 @@ I am not a "real" programmer, and so the javascript in this userscript probably 
 
 Over the years I've learnt a bit about how to use javascript to change the various web-based incident management tools I've used at work, the latest being Service Now.
 
-As of April 23rd 2022, I decided to tidy up the code and put it on Github in case other Service Now users like it and in case it revolutionises their lives, and leads to the ultimate thrill of me receiving praise from random strangers (which I think is the scourge of the internet and is why I think social media is a grim cess pit and a nest of vipers).
+As of April 23rd 2022, I decided to tidy up the code and put it on Github in case other Service Now users like it and in case it revolutionises their lives, and leads to the ultimate thrill of me receiving praise from random strangers.
 
 ## License
 
